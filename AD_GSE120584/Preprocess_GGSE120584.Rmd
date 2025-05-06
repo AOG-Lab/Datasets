@@ -1,6 +1,6 @@
 ---
 title: "preprocess_data"
-author: "Deiver Suárez Gómez"
+author: "Deiver Suárez Gómez - Alibeth Luna"
 date: "2/20/2020"
 output:
   word_document: default
